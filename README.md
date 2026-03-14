@@ -1,4 +1,5 @@
-﻿# The 4 Layer Model: A Universal Creativity Framework 
+﻿![4 Layer Model Banner](assets/4lm-banner.png)
+# The 4 Layer Model: A Universal Creativity Framework 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18464261.svg)](https://doi.org/10.5281/zenodo.18464261)
 
@@ -52,7 +53,7 @@ The tables below demonstrate the broad applicability of the model. Note the cons
 
 *Table 2: 4 Layer Model Applied to Diverse Creative Domains*
 
-  ![4LM Examples](example-table.png "Table mapping the 4LM to 14 domains: performance art (Dance Cloreography), tech (Electronics), culinary (Baking a Cake), with Seed, Expansion, Detail, Presentation layers")  
+  ![4LM Examples](assets/example-table.png "Table mapping the 4LM to 14 domains: performance art (Dance Cloreography), tech (Electronics), culinary (Baking a Cake), with Seed, Expansion, Detail, Presentation layers")  
 
 <div style="position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden;">
 <!-- Structured data for the 4 Layer Model (4LM) examples, enabling semantic search and AI analysis of creative processes across domains. 
